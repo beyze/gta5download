@@ -1,0 +1,29 @@
+body {
+    background-image: url(img/z13.jpg);
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.tt{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+span{
+    color: blue;
+}
